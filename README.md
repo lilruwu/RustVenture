@@ -4,7 +4,7 @@ The objective of this repository is to learn Rust developing simple applications
 
 ## Application List
 
-### [Hello Ferris!](src/hello_ferris/hello_ferris.md)
+### [Hello Ferris!](src/hello_ferris)
 
 #### Initial Chapters: Basics and "Hello World"
 - [x] **Hello world!** (Chapter 1 - Introduction)
