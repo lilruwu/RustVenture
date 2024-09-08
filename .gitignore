@@ -1,0 +1,7 @@
+src/hello_ferris/chapter1/hello_world/main
+src/hello_ferris/chapter1/hello_cargo/target
+src/hello_ferris/chapter1/hello_cargo/Cargo.lock
+src/hello_ferris/chapter2/guessing_game/target
+src/hello_ferris/chapter2/guessing_game/Cargo.lock
+src/hello_ferris/miscelanous/hello_world_2/target
+src/hello_ferris/miscelanous/hello_world_2/Cargo.lock
